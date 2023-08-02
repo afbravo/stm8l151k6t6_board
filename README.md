@@ -16,14 +16,16 @@ The main features of this board are:
 The board was created using KiCad 6. It was mostly left up to the end user to decide its purspose
 as it doesnt provide any internal sensors or ICs.
 
-The DataSheet for the STM8L151K6T6 MCU:
+The DataSheet for the STM8L151K6T6 MCU: [datasheet](https://www.st.com/content/ccc/resource/technical/document/datasheet/43/12/db/4c/8b/08/4a/73/CD00240181.pdf/files/CD00240181.pdf/jcr:content/translations/en.CD00240181.pdf)
 
 ## Schematic
 
-![schematic](/readmeFiles/schm.png)
+<img src="readmeFiles/schm.png" alt="schematic" width="700px">
 
 ## PCB
 
+<img src="readmeFiles/pcb.png" alt="pcb" width="700px">
+
 ## Finished Board
 
-![finished board](/readmeFiles/IMG_1296.JPG)
+<img src="readmeFiles/IMG_1296.JPG" alt="board" height="700px">
