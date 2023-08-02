@@ -20,10 +20,10 @@ The DataSheet for the STM8L151K6T6 MCU:
 
 ## Schematic
 
-![schematic][schm.png]
+![schematic](/readmeFiles/schm.png)
 
 ## PCB
 
 ## Finished Board
 
-![text][IMG_1296.jpg]
+![finished board](/readmeFiles/IMG_1296.JPG)
